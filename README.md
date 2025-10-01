@@ -31,8 +31,8 @@ An intelligent water intake tracking application that uses AI to provide persona
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ai-water-tracker.git
-   cd ai-water-tracker
+   git clone https://github.com/BrijeshRakhasiya/Tracking-Daily-Water-Intake.git
+   cd Tracking-Daily-Water-Intake.git
    ```
 
 2. **Create a virtual environment**:
@@ -130,16 +130,16 @@ Example log entries:
 
 ## 🎨 Screenshots
 
-### 1. Welcome Screen
+### 1. Main Dashboard
 ![Welcome Screen](git_assests/1.png)
 
-### 2. Main Dashboard
+### 2. Intake Logging
 ![Main Dashboard](git_assests/2.png)
 
-### 3. Intake Logging
+### 3. Analytics
 ![Intake Logging](git_assests/3.png)
 
-### 4. History and Analytics
+### 4. History 
 ![History and Analytics](git_assests/4.png)
 
 ## 🤖 AI Agent Details
@@ -188,9 +188,11 @@ The agent analyzes daily water intake and offers personalized feedback to help u
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## 🙋‍♂️ Author
 
-- Google for the Gemini AI model
-- LangChain for the AI framework
-- FastAPI and Streamlit communities for excellent Python frameworks</content>
-<parameter name="filePath">f:\30 Days AI\1. Tracking Daily Water Intake\README.md
+**Brijesh Rakhasiya**  
+AI/ML Engineer · Data Scientist · Problem Solver
+
+---
+
+**👨‍💻 Developed by Brijesh Rakhasiya**
