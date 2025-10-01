@@ -1,0 +1,26 @@
+# LLM & AI Agent Frameworks
+langchain-google-genai
+langchain
+openai
+llama-index   # automatically installs the latest version
+
+# Backend (API)
+fastapi
+uvicorn
+
+# Database
+pymongo
+mongoengine
+
+# Task Scheduling (For Reminders)
+apscheduler
+
+# CLI Interaction (Optional)
+typer
+
+# Streamlit UI (Optional)
+streamlit
+
+matplotlib
+seaborn 
+plotly
